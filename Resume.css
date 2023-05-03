@@ -1,0 +1,184 @@
+.resume-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+  background: linear-gradient(180deg, #ccabda, #fc887b);
+  width: 1405px;
+  height: 1044px;
+}
+.bg1,
+.resume7 {
+  left: 440px;
+  width: 1405px;
+}
+.resume7 {
+  position: absolute;
+  top: 36px;
+  height: 1044px;
+}
+.bg1 {
+  top: 75px;
+  background-color: rgba(7, 7, 7, 0.25);
+  height: 1005px;
+}
+.about-,
+.about2,
+.bg1 {
+  position: absolute;
+}
+.about2 {
+  height: 70.45%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: Sarabun;
+  color: rgba(255, 255, 255, 0.7);
+  text-align: left;
+  display: inline-block;
+}
+.about- {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 41px;
+  left: 824px;
+  width: 107px;
+  height: 31px;
+}
+.work8 {
+  height: 88.89%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: Sarabun;
+  color: rgba(255, 255, 255, 0.7);
+  text-align: left;
+  display: inline-block;
+}
+.resum2,
+.work-1,
+.work8 {
+  position: absolute;
+}
+.work-1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 41px;
+  left: 501px;
+  width: 69px;
+  height: 27px;
+}
+.resum2 {
+  top: 36px;
+  left: 646px;
+  font-weight: 500;
+}
+.group-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 55.5px;
+  background: linear-gradient(180deg, #2394fc 57.29%, #0072db);
+  box-shadow: 0 4px 2px rgba(0, 0, 0, 0.25);
+  width: 217px;
+  height: 58px;
+}
+.download {
+  position: absolute;
+  top: 13px;
+  left: 68px;
+  font-size: 24px;
+  font-weight: 600;
+  font-family: Sarabun;
+  color: #fff;
+  text-align: left;
+}
+.vector-icon {
+  position: absolute;
+  height: 37.93%;
+  width: 8.29%;
+  top: 31.03%;
+  right: 71.89%;
+  bottom: 31.03%;
+  left: 19.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-container {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 554px;
+  left: 1406px;
+  width: 217px;
+  height: 58px;
+}
+.me-icon2 {
+  position: absolute;
+  top: 75px;
+  left: 75px;
+  width: 290px;
+  height: 367px;
+  object-fit: cover;
+}
+.chertaem-wanleeluck3,
+.uxui-designer2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.uxui-designer2 {
+  top: 36px;
+  font-size: 20px;
+  color: #454b4d;
+}
+.im-a-computer2 {
+  margin: 0;
+}
+.im-a-computer-container2 {
+  position: absolute;
+  top: 81px;
+  left: 0;
+  font-size: 13px;
+  display: inline-block;
+  width: 290px;
+}
+.profile1 {
+  position: absolute;
+  top: 459px;
+  left: 75px;
+  width: 290px;
+  height: 166px;
+  font-size: 28px;
+  color: #000;
+}
+.resume-1-icon {
+  position: absolute;
+  top: 107px;
+  left: 663px;
+  width: 673px;
+  height: 952px;
+  object-fit: cover;
+}
+.resume6 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 32px;
+  color: #fff;
+  font-family: Sarabun;
+}

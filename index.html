@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Sarabun:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;0,800;1,400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,600;0,800;1,300&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="portfolio">
+      <div class="info">
+        <div class="me">
+          <div class="me-child"></div>
+          <div class="im-a-computer-container">
+            <p class="im-a-computer">
+              I'm a computer science student at King Mongkut's Institute of
+              Technology Ladkrabang. I'm passionate about creating digital
+              products that are not only visually appealing, but also intuitive
+            </p>
+            <p class="im-a-computer">and user-friendly.</p>
+          </div>
+          <div class="chertaem-wanleeluck">Chertaem Wanleeluck</div>
+          <div class="uxui-designer">UX/UI Designer</div>
+          <img class="me-icon" alt="" src="./public/me@1x.png" />
+        </div>
+      </div>
+      <button class="work" id="work">
+        <div class="work1">WORK</div>
+      </button>
+      <button class="resume" id="resume">
+        <div class="resum">RESUMÉ</div>
+      </button>
+      <button class="contact" id="contact">
+        <div class="contact1">CONTACT</div>
+      </button>
+    </div>
+
+    <script>
+      var work = document.getElementById("work");
+      if (work) {
+        work.addEventListener("click", function (e) {
+          window.location.href = "./Work.html";
+        });
+      }
+      
+      var resume = document.getElementById("resume");
+      if (resume) {
+        resume.addEventListener("click", function (e) {
+          window.location.href = "./Resume.html";
+        });
+      }
+      
+      var contact = document.getElementById("contact");
+      if (contact) {
+        contact.addEventListener("click", function (e) {
+          window.location.href = "./About.html";
+        });
+      }
+      </script>
+  </body>
+</html>

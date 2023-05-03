@@ -1,0 +1,161 @@
+@keyframes shadow-drop-bottom {
+  0% {
+    box-shadow: 0 0 0 0 transparent;
+  }
+  to {
+    box-shadow: 0 12px 20px -12px rgb(0 0 0/35%);
+  }
+}
+.me-child {
+  position: absolute;
+  top: 476px;
+  left: 24px;
+  background-color: #454b4d;
+  width: 920px;
+  height: 1px;
+}
+.im-a-computer {
+  margin: 0;
+}
+.im-a-computer-container {
+  top: 141px;
+}
+.chertaem-wanleeluck,
+.im-a-computer-container,
+.uxui-designer {
+  position: absolute;
+  left: 372px;
+  display: inline-block;
+  width: 595px;
+}
+.chertaem-wanleeluck {
+  top: 16px;
+  font-size: 44px;
+  font-weight: 500;
+}
+.uxui-designer {
+  top: 73px;
+  font-size: 24px;
+  color: #454b4d;
+}
+.me-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 325px;
+  height: 430px;
+  object-fit: cover;
+}
+.me {
+  position: relative;
+  width: 967px;
+  height: 477px;
+  flex-shrink: 0;
+}
+.info,
+.work1 {
+  position: absolute;
+}
+.info {
+  top: 42px;
+  left: 0;
+  width: 1920px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.work1 {
+  top: 196px;
+  left: 98px;
+  font-size: 36px;
+  font-weight: 800;
+  font-family: Sarabun;
+  color: #fff;
+  text-align: left;
+}
+.work {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 566px;
+  left: 476px;
+  border-radius: 4px;
+  background: linear-gradient(180deg, #ffdd95, #fc887b 0.01%, #ffdd95);
+  width: 299px;
+  height: 439px;
+}
+.work:hover {
+  mix-blend-mode: multiply;
+  display: flex;
+}
+.resum,
+.resume,
+.work {
+  position: absolute;
+}
+.resum {
+  top: 196px;
+  left: 81px;
+  font-size: 36px;
+  font-weight: 800;
+  font-family: Sarabun;
+  color: #fff;
+  text-align: left;
+}
+.resume {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 566px;
+  left: 819px;
+  border-radius: 4px;
+  background: linear-gradient(180deg, #ccabda, #fc887b);
+  width: 299px;
+  height: 439px;
+  overflow: hidden;
+}
+.contact:hover,
+.resume:hover,
+.work:hover {
+  animation: 0.1s ease 0s 1 normal forwards shadow-drop-bottom;
+  opacity: 1;
+}
+.contact1 {
+  position: absolute;
+  top: 196px;
+  left: 61px;
+  font-size: 36px;
+  font-weight: 800;
+  font-family: Sarabun;
+  color: #fff;
+  text-align: left;
+}
+.contact {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 566px;
+  left: 1162px;
+  border-radius: 4px;
+  background: linear-gradient(180deg, #86e3ce, #ccabda);
+  width: 282px;
+  height: 439px;
+  overflow: hidden;
+}
+.portfolio {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1047px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: Sarabun;
+}

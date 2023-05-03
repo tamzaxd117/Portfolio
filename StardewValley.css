@@ -1,0 +1,353 @@
+.stardewvalley-child {
+  position: absolute;
+  top: 280px;
+  left: 0;
+  background: linear-gradient(180deg, #0568c6 15.53%, rgba(255, 255, 255, 0));
+  width: 1920px;
+  height: 300px;
+}
+.stardewvalley-item {
+  position: absolute;
+  top: 75px;
+  left: 0;
+  background-color: #0568c6;
+  width: 1920px;
+  height: 215px;
+}
+.stardew-valley-wiki {
+  position: absolute;
+  top: 145px;
+  left: 890px;
+  font-size: 64px;
+  font-weight: 800;
+  font-family: Roboto;
+  color: #fff;
+}
+.f367aca4fa116215a923ef-1-icon,
+.stdvlmockup-1-icon {
+  position: absolute;
+  top: 93px;
+  left: 469px;
+  width: 393px;
+  height: 180px;
+  object-fit: cover;
+}
+.stdvlmockup-1-icon {
+  top: 369px;
+  left: 560px;
+  width: 800px;
+  height: 543px;
+}
+.navbar-inner,
+.work3 {
+  position: relative;
+  flex-shrink: 0;
+}
+.navbar-inner {
+  background-color: #000;
+  width: 440px;
+  height: 2px;
+}
+.work3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  font-size: 40px;
+  font-family: Poppins;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  width: 200px;
+}
+.about-the-project1,
+.navbar1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.navbar1 {
+  background-color: #fff;
+  height: 75px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 14px 131px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: 45px;
+}
+.about-the-project1 {
+  font-size: 48px;
+  font-weight: 800;
+}
+.stardew-valley-wiki1 {
+  font-weight: 600;
+}
+.span3 {
+  font-weight: 500;
+}
+.stardew-valley-wiki-container,
+.the-goal-of-container1 {
+  position: absolute;
+  top: 90px;
+  left: 0;
+  display: inline-block;
+  width: 700px;
+  font-family: Sarabun;
+}
+.the-goal-of-container1 {
+  top: 203px;
+  width: 694px;
+}
+.duration1 {
+  margin-block-start: 0;
+  margin-block-end: 10px;
+  font-weight: 800;
+}
+.october-november {
+  margin: 0;
+  font-size: 24px;
+}
+.duration-october-container {
+  position: absolute;
+  top: 344px;
+  left: 0;
+  font-size: 32px;
+}
+.figma2 {
+  margin: 0;
+  font-size: 24px;
+  padding-left: 32px;
+}
+.overview2,
+.tools-figma1 {
+  position: absolute;
+  top: 344px;
+  left: 553px;
+  font-size: 32px;
+}
+.overview2 {
+  top: 1080px;
+  left: 607px;
+  width: 700px;
+  height: 418px;
+  font-size: 24px;
+  font-family: Roboto;
+}
+.image-25-icon {
+  position: absolute;
+  top: 1711px;
+  left: 384px;
+  border-radius: 20px;
+  width: 1148px;
+  height: 583px;
+  object-fit: cover;
+}
+.first-design,
+.improved-the-design,
+.start-with-task {
+  position: absolute;
+  top: 1651px;
+  left: 388px;
+  font-size: 36px;
+  font-weight: 800;
+}
+.first-design,
+.improved-the-design {
+  top: 2513px;
+  left: 607px;
+}
+.improved-the-design {
+  top: 3694px;
+  left: 388px;
+}
+.mapping-out-the,
+.this-is-the {
+  position: absolute;
+  top: 2311px;
+  left: 388px;
+  font-size: 24px;
+  display: inline-block;
+  width: 1140px;
+}
+.this-is-the {
+  top: 2570px;
+  left: 607px;
+  font-weight: 500;
+  width: 700px;
+}
+.window-icon2,
+.window-icon3 {
+  position: absolute;
+  top: 2753px;
+  left: 654px;
+  border-radius: 8px;
+  width: 613px;
+  height: 801px;
+  overflow: hidden;
+}
+.window-icon3 {
+  top: 3856px;
+  left: 368px;
+  width: 658px;
+  height: 857.47px;
+}
+.stardewvalley-inner {
+  position: absolute;
+  top: 2822px;
+  left: 534px;
+  width: 133px;
+  height: 16px;
+}
+.stardewvalley-child1,
+.stardewvalley-child2 {
+  position: absolute;
+  top: 3284.76px;
+  left: 1198.99px;
+  width: 133px;
+  height: 16px;
+}
+.stardewvalley-child2 {
+  top: 3935px;
+  left: 993px;
+}
+.stardewvalley-child3,
+.stardewvalley-child4 {
+  position: absolute;
+  top: 4100.75px;
+  left: 983.97px;
+  width: 142px;
+  height: 16px;
+}
+.stardewvalley-child4 {
+  top: 4453.52px;
+  left: 958px;
+  width: 168px;
+}
+.the-text-seems {
+  position: absolute;
+  top: 3277px;
+  left: 1342px;
+  display: inline-block;
+  width: 267px;
+}
+.the-navigation-bar,
+.the-navigation-bar1 {
+  position: absolute;
+  top: 2809px;
+  left: 264px;
+  display: inline-block;
+  width: 270px;
+}
+.the-navigation-bar1 {
+  top: 3924px;
+  left: 1133px;
+  width: 418px;
+}
+.the-text-appeared {
+  position: absolute;
+  top: 4449px;
+  left: 1133px;
+}
+.change-the-background {
+  margin: 0;
+}
+.change-the-background-container {
+  position: absolute;
+  top: 4088px;
+  left: 1133px;
+}
+.we-significantly-improved {
+  position: absolute;
+  top: 3751px;
+  left: 388px;
+}
+.window-icon4,
+.window-icon5,
+.window-icon6 {
+  position: absolute;
+  top: 5044px;
+  left: 145px;
+  border-radius: 8px;
+  width: 510px;
+  height: 544px;
+  overflow: hidden;
+}
+.window-icon5,
+.window-icon6 {
+  top: 4947px;
+  left: 705px;
+  height: 737.62px;
+}
+.window-icon6 {
+  top: 5119px;
+  left: 1265px;
+  height: 394.67px;
+}
+.additional-designs-examples {
+  position: absolute;
+  top: 4845px;
+  left: 726px;
+  font-size: 36px;
+  font-weight: 800;
+}
+.stardewvalley-child5,
+.stardewvalley-child6 {
+  position: absolute;
+  width: 1920px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.stardewvalley-child5 {
+  top: 6177px;
+  left: 1920px;
+  background: linear-gradient(180deg, #0568c6 15.53%, rgba(255, 255, 255, 0));
+  height: 300px;
+}
+.stardewvalley-child6 {
+  top: 6381.95px;
+  left: 1920.23px;
+  background-color: #0568c6;
+  height: 215px;
+}
+.figma3,
+.you-can-see1 {
+  position: absolute;
+  top: 5824px;
+  left: 685px;
+  font-size: 36px;
+  font-weight: 800;
+}
+.figma3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  left: 1134px;
+  text-decoration: underline;
+  font-family: Sarabun;
+  color: #000;
+  text-align: left;
+  display: inline-block;
+}
+.thanks-for-reading1 {
+  position: absolute;
+  top: 6221px;
+  left: 725px;
+  font-size: 48px;
+  font-family: Poppins;
+  color: #fff;
+}
+.stardewvalley {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 6382px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 20px;
+  color: #000;
+  font-family: Sarabun;
+}

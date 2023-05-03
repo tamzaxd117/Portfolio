@@ -1,0 +1,13 @@
+.flow-1-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4096px;
+  height: 1417px;
+  object-fit: cover;
+}
+.taskflow {
+  position: relative;
+  width: 100%;
+  height: 1417px;
+}

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./Resume.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Sarabun:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;0,800;1,400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,600;0,800;1,300&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="resume6">
+      <div class="resume7">
+        <div class="resume-child"></div>
+      </div>
+      <div class="bg1"></div>
+      <button class="about-" id="about">
+        <div class="about2">CONTACT</div>
+      </button>
+      <button class="work-1" id="work">
+        <div class="work8">WORK</div>
+      </button>
+      <div class="resum2">RESUMÉ</div>
+      <button class="rectangle-container" id="groupButton">
+        <div class="group-child1"></div>
+        <div class="download">Download</div>
+        <img class="vector-icon" alt="" src="./public/vector.svg" />
+      </button>
+      <img class="me-icon2" alt="" src="./public/me1@2x.png" />
+
+      <div class="profile1">
+        <div class="chertaem-wanleeluck3">Chertaem Wanleeluck</div>
+        <div class="uxui-designer2">UX/UI Designer</div>
+        <div class="im-a-computer-container2">
+          <p class="im-a-computer2">
+            I'm a computer science student at King Mongkut's Institute of
+            Technology Ladkrabang. I'm passionate about creating digital
+            products that are not only visually appealing, but also intuitive
+          </p>
+          <p class="im-a-computer2">and user-friendly.</p>
+        </div>
+      </div>
+      <img class="resume-1-icon" alt="" src="./public/resume-1@2x.png" />
+    </div>
+
+    <script>
+      var about = document.getElementById("about");
+      if (about) {
+        about.addEventListener("click", function (e) {
+          window.location.href = "./About.html";
+        });
+      }
+      
+      var work = document.getElementById("work");
+      if (work) {
+        work.addEventListener("click", function (e) {
+          window.location.href = "./Work.html";
+        });
+      }
+      
+      var groupButton = document.getElementById("groupButton");
+      if (groupButton) {
+        groupButton.addEventListener("click", function () {
+          window.open(
+            "https://drive.google.com/file/d/1GpIJElbUuBisjW3gnaiz0mdRomZVcOsD/view?usp=sharing"
+          );
+        });
+      }
+      </script>
+  </body>
+</html>

@@ -1,0 +1,165 @@
+.about-child,
+.about1,
+.bg {
+  position: absolute;
+  width: 1405px;
+  height: 1044px;
+}
+.about-child {
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+  background: linear-gradient(180deg, #86e3ce, #ccabda), #d9d9d9;
+}
+.about1,
+.bg {
+  top: 36px;
+  left: 440px;
+}
+.bg {
+  top: 75px;
+  background-color: rgba(7, 7, 7, 0.25);
+  height: 1005px;
+}
+.taem11398gmailcom {
+  position: absolute;
+  top: 162px;
+  left: 564px;
+  font-weight: 600;
+}
+.chertaem-wanleeluck1,
+.div27,
+.resum1,
+.tammrslnr9 {
+  position: absolute;
+  top: 227px;
+  left: 564px;
+  font-weight: 600;
+}
+.div27,
+.resum1,
+.tammrslnr9 {
+  top: 363px;
+}
+.resum1,
+.tammrslnr9 {
+  top: 296px;
+}
+.resum1 {
+  height: 70.45%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: Sarabun;
+  color: rgba(255, 255, 255, 0.7);
+  text-align: left;
+  display: inline-block;
+}
+.resume- {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 41px;
+  left: 649px;
+  width: 89px;
+  height: 31px;
+}
+.contact7 {
+  top: 36px;
+  left: 810px;
+  font-size: 32px;
+  font-weight: 500;
+}
+.contact7,
+.work-,
+.work7 {
+  position: absolute;
+}
+.work7 {
+  height: 88.89%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-size: 24px;
+  font-weight: 500;
+  font-family: Sarabun;
+  color: rgba(255, 255, 255, 0.7);
+  text-align: left;
+  display: inline-block;
+}
+.work- {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 41px;
+  left: 495px;
+  width: 69px;
+  height: 27px;
+}
+.me-icon1 {
+  position: absolute;
+  top: 75px;
+  left: 75px;
+  width: 290px;
+  height: 367px;
+  object-fit: cover;
+}
+.cont-icon {
+  position: absolute;
+  height: 21.94%;
+  width: 2.08%;
+  top: 14.72%;
+  right: 72.14%;
+  bottom: 63.33%;
+  left: 25.78%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.chertaem-wanleeluck2,
+.uxui-designer1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.uxui-designer1 {
+  top: 36px;
+  font-size: 20px;
+  color: #454b4d;
+}
+.im-a-computer1 {
+  margin: 0;
+}
+.im-a-computer-container1 {
+  position: absolute;
+  top: 81px;
+  left: 0;
+  font-size: 13px;
+  display: inline-block;
+  width: 290px;
+}
+.profile {
+  position: absolute;
+  top: 459px;
+  left: 75px;
+  width: 290px;
+  height: 166px;
+  font-size: 28px;
+  color: #000;
+}
+.about {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 20px;
+  color: #fff;
+  font-family: Sarabun;
+}

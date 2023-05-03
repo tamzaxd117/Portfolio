@@ -1,0 +1,442 @@
+@keyframes shadow-drop-bottom {
+  0% {
+    box-shadow: 0 0 0 0 transparent;
+  }
+  to {
+    box-shadow: 0 12px 20px -12px rgb(0 0 0/35%);
+  }
+}
+.work-child {
+  top: 0;
+  border-radius: 4px;
+  background: linear-gradient(180deg, #ffdd95, #fc887b 0.01%, #ffdd95), #d9d9d9;
+  height: 1044px;
+}
+.bg2,
+.stardew-child,
+.work-child,
+.work10 {
+  position: absolute;
+  left: 0;
+  width: 1405px;
+}
+.bg2 {
+  top: 39px;
+  background-color: rgba(7, 7, 7, 0.25);
+  height: 1005px;
+  mix-blend-mode: normal;
+}
+.stardew-child,
+.work10 {
+  top: 0;
+  height: 1044px;
+}
+.stardew-child {
+  height: 32.35%;
+  width: 100%;
+  top: 67.65%;
+  right: 0;
+  bottom: 0;
+  border-radius: 0 0 2px 2px;
+  background-color: #fff;
+}
+.game-website,
+.hci-team-project,
+.stadew-valley-wiki {
+  position: absolute;
+  left: 11.43%;
+  font-family: Sarabun;
+  text-align: left;
+}
+.stadew-valley-wiki {
+  top: 70.29%;
+  font-size: 30px;
+  font-weight: 600;
+  color: #000;
+}
+.game-website,
+.hci-team-project {
+  top: 89.71%;
+  font-size: 20px;
+  color: #747474;
+}
+.game-website {
+  top: 80.59%;
+  font-size: 16px;
+  font-weight: 300;
+  color: #000;
+}
+.stardew-item {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 2px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.stardew {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 569px;
+  left: 138px;
+  box-shadow: 3px 3px 0 rgba(0, 0, 0, 0.25);
+  width: 350px;
+  height: 340px;
+}
+.bigbr:hover,
+.pocket:hover,
+.stardew:hover,
+.ticketm:hover,
+.typefi:hover {
+  animation: 0.1s ease 0s 1 normal forwards shadow-drop-bottom;
+  opacity: 1;
+}
+.bigbr-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 2px;
+  background-color: #349cdb;
+}
+.big-brain2,
+.hci-solo-project,
+.online-course-website {
+  position: absolute;
+  left: 11.71%;
+  font-family: Sarabun;
+  text-align: left;
+}
+.big-brain2 {
+  top: 70.29%;
+  font-size: 30px;
+  font-weight: 600;
+  color: #000;
+}
+.hci-solo-project,
+.online-course-website {
+  top: 89.71%;
+  font-size: 20px;
+  color: #747474;
+}
+.online-course-website {
+  top: 80.59%;
+  font-size: 16px;
+  font-weight: 300;
+  color: #000;
+}
+.logo-icon1 {
+  position: absolute;
+  height: 62.94%;
+  width: 61.14%;
+  top: 4.41%;
+  right: 19.43%;
+  bottom: 32.65%;
+  left: 19.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.bigbr {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 569px;
+  left: 529px;
+  box-shadow: 3px 3px 0 rgba(0, 0, 0, 0.25);
+  width: 350px;
+  height: 340px;
+}
+.pocket-child {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 2px;
+  background-color: #fff;
+}
+.icon2,
+.pocket,
+.pocket-child {
+  position: absolute;
+}
+.icon2 {
+  height: 67.65%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 32.35%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.pocket {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 135px;
+  left: 138px;
+  box-shadow: 3px 3px 0 rgba(0, 0, 0, 0.25);
+  width: 350px;
+  height: 340px;
+}
+.ticketm-child,
+.ticketm-item {
+  position: absolute;
+  height: 99.71%;
+  width: 100%;
+  top: 0.29%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 2px;
+  background-color: #3bbbe6;
+}
+.ticketm-item {
+  height: 32.26%;
+  top: 67.74%;
+  border-radius: 0 0 2px 2px;
+  background-color: #fff;
+}
+.ticketmelon4 {
+  font-size: 30px;
+  font-weight: 600;
+  font-family: Sarabun;
+}
+.redesign1 {
+  font-size: 20px;
+  font-family: Sarabun;
+}
+.app-critique,
+.dis-solo-project,
+.ticketmelon3 {
+  position: absolute;
+  top: 70.38%;
+  left: 11.71%;
+  color: #000;
+  text-align: left;
+}
+.app-critique,
+.dis-solo-project {
+  top: 89.74%;
+  font-size: 20px;
+  font-family: Sarabun;
+  color: #747474;
+}
+.app-critique {
+  top: 80.65%;
+  font-size: 16px;
+  font-weight: 300;
+  color: #000;
+}
+.n-1-icon1 {
+  position: absolute;
+  top: 35px;
+  left: 77px;
+  width: 194px;
+  height: 194px;
+  object-fit: cover;
+}
+.ticketm {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 134px;
+  left: 528px;
+  box-shadow: 3px 3px 0 rgba(0, 0, 0, 0.25);
+  width: 350px;
+  height: 341px;
+}
+.typefi-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 2px;
+  background: linear-gradient(90deg, #d0eee4, #c0eee8);
+}
+.logo-1-1-icon1 {
+  position: absolute;
+  height: 67.94%;
+  width: 84.29%;
+  top: 0;
+  right: 8%;
+  bottom: 32.06%;
+  left: 7.71%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.multiplayer-game {
+  position: absolute;
+  top: 81.76%;
+  left: 11.71%;
+  font-size: 16px;
+  font-weight: 300;
+  font-family: Sarabun;
+  color: #000;
+  text-align: left;
+}
+.b,
+.b1,
+.typefi {
+  position: absolute;
+}
+.typefi {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 134px;
+  left: 918px;
+  box-shadow: 3px 3px 0 rgba(0, 0, 0, 0.25);
+  width: 350px;
+  height: 340px;
+}
+.b,
+.b1 {
+  top: 80px;
+  left: 138px;
+}
+.b1 {
+  top: 515px;
+}
+.content-child,
+.content-item {
+  position: absolute;
+  top: 104px;
+  left: 228px;
+  background-color: #fff;
+  width: 1040px;
+  height: 1px;
+}
+.content-item {
+  top: 542px;
+}
+.content {
+  position: absolute;
+  top: 36px;
+  left: 440px;
+  width: 1405px;
+  height: 1044px;
+  overflow: hidden;
+}
+.chertaem-wanleeluck4,
+.uxui-designer3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.uxui-designer3 {
+  top: 36px;
+  font-size: 20px;
+  color: #454b4d;
+}
+.im-a-computer3 {
+  margin: 0;
+}
+.im-a-computer-container3 {
+  position: absolute;
+  top: 81px;
+  left: 0;
+  font-size: 13px;
+  display: inline-block;
+  width: 290px;
+}
+.profile2 {
+  position: absolute;
+  top: 459px;
+  left: 75px;
+  width: 290px;
+  height: 166px;
+  font-size: 28px;
+  color: #000;
+}
+.contact8,
+.work11 {
+  position: absolute;
+  top: 36px;
+  left: 495px;
+  font-size: 32px;
+  font-weight: 500;
+  display: inline-block;
+  width: 104px;
+  height: 42px;
+}
+.contact8 {
+  height: 70.45%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  font-size: 24px;
+  font-family: Sarabun;
+  color: rgba(255, 255, 255, 0.7);
+  text-align: left;
+}
+.about-1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 41px;
+  left: 818px;
+  width: 108px;
+  height: 31px;
+}
+.me-icon3 {
+  position: absolute;
+  top: 75px;
+  left: 75px;
+  width: 290px;
+  height: 367px;
+  object-fit: cover;
+}
+.resume-1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 41px;
+  left: 649px;
+  width: 89px;
+  height: 31px;
+}
+.work9 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 36px;
+  color: #fff;
+  font-family: Sarabun;
+}

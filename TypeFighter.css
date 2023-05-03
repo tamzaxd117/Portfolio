@@ -1,0 +1,320 @@
+.typefighter-child {
+  position: absolute;
+  top: 284px;
+  left: 0;
+  background: linear-gradient(180deg, #c3efe8 15.53%, rgba(255, 255, 255, 0));
+  width: 1920px;
+  height: 300px;
+}
+.typefighter-item {
+  position: absolute;
+  top: 3589px;
+  left: -3px;
+  background-color: #c3efe8;
+  width: 1920px;
+  height: 219px;
+}
+.typefighter-inner {
+  position: absolute;
+  top: 3599px;
+  left: 1917px;
+  background: linear-gradient(180deg, #c3efe8 15.53%, rgba(255, 255, 255, 0));
+  width: 1920px;
+  height: 300px;
+  transform: rotate(-180deg);
+  transform-origin: 0 0;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #c3efe8;
+  width: 1920px;
+  height: 219px;
+}
+.type-fighter {
+  position: absolute;
+  top: 73px;
+  left: 861px;
+  font-weight: 800;
+  display: inline-block;
+  width: 553px;
+  height: 72px;
+}
+.logo-1-1-icon {
+  position: absolute;
+  top: 0;
+  left: 596px;
+  width: 289px;
+  height: 219px;
+  object-fit: cover;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 75px;
+  left: 0;
+  width: 1920px;
+  height: 219px;
+  font-size: 64px;
+}
+.tfmock-1-icon {
+  position: absolute;
+  top: 369px;
+  left: 560px;
+  width: 800px;
+  height: 543px;
+  object-fit: cover;
+}
+.navbar-child2,
+.work4 {
+  position: relative;
+  flex-shrink: 0;
+}
+.navbar-child2 {
+  background-color: #000;
+  width: 440px;
+  height: 2px;
+}
+.work4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  font-size: 40px;
+  font-family: Poppins;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  width: 200px;
+}
+.navbar2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  height: 75px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 14px 131px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  gap: 45px;
+}
+.about-the-project2 {
+  position: absolute;
+  top: 0;
+  left: 5px;
+  font-size: 48px;
+  font-weight: 800;
+}
+.type-fighter1 {
+  font-weight: 600;
+}
+.span4 {
+  font-weight: 500;
+}
+.is-a-multiplayer {
+  font-family: Roboto;
+}
+.type-fighter-is-container {
+  position: absolute;
+  top: 90px;
+  left: 5px;
+  display: inline-block;
+  width: 700px;
+  font-family: Sarabun;
+}
+.as-part-of {
+  margin: 0;
+}
+.the-goal-of-container2 {
+  position: absolute;
+  top: 208px;
+  left: 0;
+  display: inline-block;
+  width: 700px;
+}
+.duration2 {
+  margin-block-start: 0;
+  margin-block-end: 10px;
+  font-weight: 800;
+}
+.january-february {
+  margin: 0;
+  font-size: 24px;
+}
+.duration-january-container {
+  position: absolute;
+  top: 344px;
+  left: 5px;
+  font-size: 32px;
+}
+.figma-adobe-photoshop {
+  margin: 0;
+  font-size: 24px;
+  padding-left: 32px;
+}
+.overview3,
+.tools-figma-adobe-container {
+  position: absolute;
+  top: 344px;
+  left: 472px;
+  font-size: 32px;
+}
+.overview3 {
+  top: 1080px;
+  left: 607px;
+  width: 705px;
+  height: 446px;
+  font-size: 24px;
+  font-family: Roboto;
+}
+.window1-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 631px;
+  height: 384px;
+}
+.main-menu {
+  position: absolute;
+  top: 6px;
+  left: 19px;
+  font-weight: 500;
+}
+.bar,
+.window1 {
+  position: absolute;
+  width: 627px;
+}
+.window1 {
+  top: 1644px;
+  left: 488px;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  height: 384px;
+  overflow: hidden;
+  color: #fff;
+}
+.bar {
+  top: 0;
+  left: 0;
+  background-color: #333d54;
+  height: 32px;
+}
+.ellipse-icon,
+.ellipse-icon1,
+.ellipse-icon2,
+.training-icon {
+  position: absolute;
+  top: 6px;
+  left: 549px;
+  width: 18px;
+  height: 18px;
+}
+.ellipse-icon1,
+.ellipse-icon2,
+.training-icon {
+  left: 575px;
+}
+.ellipse-icon2,
+.training-icon {
+  left: 601px;
+}
+.training-icon {
+  top: 32px;
+  left: 0;
+  width: 627px;
+  height: 352px;
+  object-fit: cover;
+}
+.practice {
+  position: absolute;
+  top: 7px;
+  left: 18px;
+  font-weight: 500;
+}
+.gameplay-1-icon,
+.window3 {
+  position: absolute;
+  width: 627px;
+}
+.window3 {
+  top: 2539px;
+  left: 492px;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  height: 384px;
+  overflow: hidden;
+  color: #fff;
+}
+.gameplay-1-icon {
+  top: 32px;
+  left: 0;
+  height: 348px;
+  object-fit: cover;
+}
+.gameplay {
+  position: absolute;
+  top: 6px;
+  left: 18px;
+  font-weight: 500;
+}
+.window {
+  position: absolute;
+  top: 2094px;
+  left: 804px;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 627px;
+  height: 380px;
+  overflow: hidden;
+  color: #fff;
+}
+.thanks-for-reading2 {
+  position: absolute;
+  top: 3663px;
+  left: 726px;
+  font-size: 48px;
+  font-family: Poppins;
+}
+.logo-1-2-icon {
+  position: absolute;
+  top: 2988px;
+  left: 335px;
+  width: 416px;
+  height: 415px;
+  object-fit: cover;
+}
+.the-logo-is {
+  margin-bottom: 0;
+}
+.the-logo-is-a-shield-with-cros {
+  margin: 0;
+  padding-left: 32px;
+}
+.this-game-is-container {
+  position: absolute;
+  top: 3134px;
+  left: 751px;
+  font-size: inherit;
+  font-family: inherit;
+  display: inline-block;
+  width: 834px;
+}
+.typefighter {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 3808px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 14px;
+  color: #000;
+  font-family: Sarabun;
+}
